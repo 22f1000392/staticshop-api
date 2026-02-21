@@ -25,9 +25,13 @@
     { "id": "prod-76c381ba-019", "name": "Standard Item 19", "category": "home", "price": 171.96, "stock": 62, "rating": 1.6 }
   ],
   "aggregations": {
-    "home": {
-      "count": 3,
-      "inventoryValue": 40328.24
-    }
+  "home": {
+    "count": 3,
+    "inventoryValue": 40328.24
+  },
+  "electronics": {
+    "count": 4,
+    "inventoryValue": 143780.75
+  }
   }
 }
